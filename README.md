@@ -9,7 +9,7 @@
   <img align="center" alt="Neto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Neto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Neto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Neto-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/939000632638070905/959146243169349632/oi-meu-chapa112.png?width=676&height=676">
+  <img align="right" alt="Neto-pic" height="150" style="border-radius:50px;" src="[https://cdn.discordapp.com/attachments/939000632638070905/959146243169349632/oi-meu-chapa112.png](https://cdn.discordapp.com/attachments/1197545861304041502/1236839238964609178/oi-meu-chapa.png)?width=676&height=676">
 </div>
   
   ##
